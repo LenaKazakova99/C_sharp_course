@@ -12,3 +12,4 @@ int SumNum(int num)
 }
 
 Console.WriteLine(SumNum(7));
+Console.WriteLine(SumNum(4));
